@@ -10,7 +10,7 @@ body {
   align-items: center;
   border-bottom: 1px solid black;
 }
-
+ 
 .footer {
   height: 49px;
   display: flex;
@@ -21,4 +21,7 @@ body {
  
 .content {
   min-height: calc(100vh - 100px);
+  width: 720px;
+  max-width: 100%;
+  margin: auto;
 }
